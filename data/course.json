@@ -1,0 +1,43 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Engineering",
+      "Mechanical Engineering",
+      "Fluid Mechanics"
+    ],
+    [
+      "Engineering",
+      "Ocean Engineering",
+      "Hydrodynamics"
+    ],
+    [
+      "Engineering",
+      "Mechanical Engineering",
+      "Mechanical Design"
+    ],
+    [
+      "Engineering",
+      "Ocean Engineering",
+      "Ocean Structures"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "183d051f-6a59-81e3-4fb6-b9b9b61b7bd8",
+      "1b74bbf9-3a2a-2459-d4c3-78e2e70b67ec"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Principles of Naval Architecture",
+  "course_description": "This course presents principles of naval architecture, ship geometry, hydrostatics, calculation and drawing of curves of form, intact and damage stability, hull structure strength calculations and ship resistance. It introduces computer-aided naval ship design and analysis tools. Projects include analysis of ship lines drawings, calculation of ship hydrostatic characteristics, analysis of intact and damaged stability, ship model testing, and hull structure strength calculations.\n",
+  "department_numbers": [
+    "2"
+  ],
+  "extra_course_numbers": "2.701",
+  "primary_course_number": "2.700",
+  "learning_resource_types": [
+    "Projects"
+  ],
+  "title": "Course Metadata"
+}
